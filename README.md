@@ -4,6 +4,8 @@
 * Learning experience
 
 
+---
+
 ## Me
 你好，我是高子淇。
 1998/11/24，活潑的射手座♐️、O型血，對於陌生環境有點內向但很好相處！
@@ -14,6 +16,8 @@
 再過兩個月就可以雙主修畢業，希望能夠畢業即就業不要成為失業人口造成社會負擔，自己養活自己！
 
 
+---
+
 ## Work experience
 * 勤業眾信實習 Deloitte Internship
 2020 年 7 月 - 2021 年 2 月
@@ -22,6 +26,8 @@
 2018 年 1 月 - 2018 年 2 月
 大一寒假短期工讀，參與凱基銀行專案，認識資料倉儲概略架構相關知識，協助建立資料庫。
 
+
+---
 
 ## Learning experience
 - [專題YouTube留言+Chrome](https://github.com/tzuchyi/chrome-extension)
