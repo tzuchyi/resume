@@ -1,5 +1,8 @@
-# Resume
-> [TOC]
+# Resume topic
+* Me
+* Work experience
+* Learning experience
+
 
 ## Me
 你好，我是高子淇。
@@ -27,8 +30,6 @@
 
 - [專題YouTube留言蜚語](https://github.com/tzuchyi/youtubeai)
 >利用Flask進行爬蟲及文字分析，再將分析結果呈現在網站上。程式語言：python
-> [time=Tue, Nov 30, 2021 3:53 PM]
-
 
 
 - [資料結構與演算法](https://github.com/tzuchyi/class_exercise)
