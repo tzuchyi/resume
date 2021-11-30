@@ -1,8 +1,10 @@
-# resume
+# Resume
+
+## Me
+
 
 - [專題YouTube留言+Chrome](https://github.com/tzuchyi/chrome-extension)
-
-延續過去專題YouTube留言蜚語，使用chrome extension將結果改以留言旁邊的圖示直接呈現 程式語言：python、java script
+>延續過去專題YouTube留言蜚語，使用chrome extension將結果改以留言旁邊的圖示直接呈現 程式語言：python、java script
 
 
 - [專題YouTube留言蜚語](https://github.com/tzuchyi/youtubeai)
