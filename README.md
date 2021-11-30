@@ -17,7 +17,7 @@
 ## Work experience
 * 勤業眾信實習 Deloitte Internship
 2020 年 7 月 - 2021 年 2 月
-大四學期間實習，使用Django進行後端資料庫與前端的連線，完成動態報表以及資料輸入、刪除、編輯等呈現。
+大四學期間實習，使用`Django`進行後端資料庫與前端的連線，完成動態報表以及資料輸入、刪除、編輯等呈現。
 * 安永實習 Ernst Internship
 2018 年 1 月 - 2018 年 2 月
 大一寒假短期工讀，參與凱基銀行專案，認識資料倉儲概略架構相關知識，協助建立資料庫。
@@ -25,11 +25,11 @@
 
 ## Learning experience
 - [專題YouTube留言+Chrome](https://github.com/tzuchyi/chrome-extension)
->延續過去專題YouTube留言蜚語，使用chrome extension將結果改以留言旁邊的圖示直接呈現。程式語言：python、java script
+>延續過去專題YouTube留言蜚語，使用`chrome extension`將結果改以留言旁邊的圖示直接呈現。程式語言：python、java script
 
 
 - [專題YouTube留言蜚語](https://github.com/tzuchyi/youtubeai)
->利用Flask進行爬蟲及文字分析，再將分析結果呈現在網站上。程式語言：python
+>利用`Flask`進行爬蟲及文字分析，再將分析結果呈現在網站上。程式語言：python
 
 
 - [資料結構與演算法](https://github.com/tzuchyi/class_exercise)
@@ -37,7 +37,7 @@
 
 
 - [文字探勘](https://github.com/tzuchyi/scu_class_NLP)
->使用 selenium 爬取動態式網站與 jieba 斷詞。程式語言：python
+>使用 selenium 爬取動態式網站與 `jieba` 斷詞。程式語言：python
 
 
 - [郵政比賽](https://github.com/tzuchyi/post_competition)
