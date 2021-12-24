@@ -6,7 +6,7 @@
 
 ---
 
-## Contect me
+## Contact me
 姓名：高子淇
 
 電話：0975970820
