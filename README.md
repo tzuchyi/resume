@@ -6,10 +6,13 @@
 
 ---
 
-##Contect me
+## Contect me
 姓名：高子淇
+
 電話：0975970820
+
 Email：tzuchyi1124@gmail.com
+
 
 ## Me
 你好，我是高子淇。
