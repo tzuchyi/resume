@@ -23,6 +23,22 @@ Email：tzuchyi1124@gmail.com
 雙主修`財務工程與精算數學`。
 再過兩個月就可以雙主修畢業，希望能夠畢業即就業不要成為失業人口造成社會負擔，自己養活自己！
 
+## Education 
+* 東吳大學財務工程與精算數學 ，2018 年 9 月 - 至今 
+Soochow University Financial Engineering and Actuarial MathematicsSeptember, 2018 - present
+>雙主修 Double major
+* 東吳大學巨量資料管理學院，2017年 9 月 - 至今 
+Soochow University School of Big Data Management, September 2017 - present
+>第三屆巨資系學會活動組 The third Student union of Activity group in  Big Data Management
+>第三屆巨資系排 The third Volleyball team in  Big Data Management
+
+* 國立臺灣師範大學附屬高級中學，2014 年 5 月 - 2017 年 6 月
+The Affiliated Senior High School of National Taiwan Normal University, May 2014 - June 2017
+>1374數資班 1374Math Gifted Class
+>23屆學生會執秘組 Acted as 23th Student Union Executive Group
+>擔任第三屆冬樂賞財務總召 Acted as the 3rd Winter Music Concert Chief Financial Officer
+
+
 
 
 ## Work experience
