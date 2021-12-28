@@ -1,5 +1,7 @@
 # Resume topic
+* Contact me
 * Me
+* Education 
 * Work experience
 * Learning experience
 
